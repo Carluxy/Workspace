@@ -1,0 +1,9 @@
+Hola carla este es un documento para que te acuerdes de como subir repositorios
+a github.
+
+git init 
+git add . 
+git remote "al iniciar el repositorio en github te dara la direccion donde subir los archivos"
+git push -u origin master
+
+
